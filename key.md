@@ -1,0 +1,39 @@
+column key
+
+- `sun_hours` - avg hours with sunshine per year (out of 8760 hours possible)
+- `clear_skies_days` - avg days with <30% cloud coverage
+- `sun_efficacy_%` - % of sun which hits dirt between sunrise-sunset
+- `precipitation_mm` - annual precipitation in mm (includes rain & snow)
+- `snowy_days` - avg days with snow fall
+- `snow_amount_cm` - avg amout of snow in cm
+- `humidity_morning_%` - humidity % as measured in morning
+- `humidity_afternoon_%` - humidity % as measured in afternoon
+- `mean_temperature_F` - mean temperature in Farenheit
+- `population` - population count
+- `income_per_capita_$` - income per capita in $
+- `mean_salary_$` - mean salary in $
+- `mean_home_price_$` - mean home price in $
+- `mean_elevation_ft` - mean elevation in ft
+- `max_elevation_ft` - max elevation in ft
+- `min_elevation_ft` - min elevation in ft
+- `stem_tech_score` - stem/tech score
+- `homicide_rate` - homicide rate (x of 100k)
+- `population_change_%` - population change as % since 2010
+- `us_population_%` - % of us population
+- `population_density_m2` - population density per m^2
+- `white_%` - % race is white
+- `black_%` - % race is black
+- `asian_%` - % race is asian
+- `obesity_%` - % is obese
+- `men_to_women_ratio` - ratio of men:women
+- `has_recreational_weed?` - recreational weed legal (as of data pull)
+- `religious_%` - % religious adults
+- `happiness_score` - happiness score
+- `internet_speed` - internet speed (measurement unknown/forgotten)
+- `internet_coverage_%` - internet coverage as %
+- `iq` - avg IQ
+- `suicide_rates` - suicide rates (x of 100k)
+- `tornadoes` - avg count of annual tornadoes
+- `voter_turnout_%` - % voter turnout
+- `has_alligators?` - has alligators?
+- `touches_water?` - touches ocean / great lakes?
